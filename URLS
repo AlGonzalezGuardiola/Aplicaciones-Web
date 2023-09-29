@@ -1,0 +1,47 @@
+https://moodle.nigul.coop/course/modedit.php?add=assign&type=&course=82&section=3&return=0&sr=0
+	-Protocolo: https://
+	-Nombre de la computadora: moodle.nigul.coop
+	-Directiorio: /course/
+	-Archivo: modedit.php
+	-Query: ?add=assign&type=&course=82&section=3&return=0&sr=0
+	-Tipo: Absoluta
+	
+github.com/marketplace?type=apps
+        -Protocolo: Sin protocolo
+        -Nombre de la computadora: github.com/ 
+        -Directiorio: marketplace
+        -Archivo: Sin archivo
+        -Query: ?type=apps
+        -Tipo: Relativa
+
+https://www.meneame.net/story/primer-vuelo-avion-hidrogeno-mas-grande-mundo#comentario1
+        -Protocolo: https://
+        -Nombre de la computadora: www.meneame.net
+        -Directiorio: /story/
+        -Archivo: primer-vuelo-avion-hidrogeno-mas-grande-mundo
+        -Query: Sin, pero con fragmento: #comentario1
+        -Tipo: Absoluta
+
+https://thispersondoesnotexist.com/image
+        -Protocolo: https://
+        -Nombre de la computadora: thispersondoesnotexist.com 
+        -Directiorio: Sin directorio
+        -Archivo: /image
+        -Query: Sin Query
+        -Tipo: Absoluta
+
+sftp://example.com
+        -Protocolo: sftp://
+        -Nombre de la computadora: example.com
+        -Directiorio: Sin directorio
+        -Archivo: Sin archivo
+        -Query: Sin Query
+        -Tipo: Absoluta
+
+info/noticia.html?p=2
+        -Protocolo: Sin protocolo
+        -Nombre de la computadora: Sin nombre de la computadora
+        -Directiorio: info
+        -Archivo: noticia.html
+        -Query: p=2
+        -Tipo: Relativa
