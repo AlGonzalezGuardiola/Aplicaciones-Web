@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<thabitaciones>
+	<thabitacion>
+		<tipoh>Básica</tipoh>
+			<tpersonas>
+				<tpersona>
+					<tipop>Adulto</tipop>
+						<precio>100.00</precio>
+						<divisa>EUR</divisa>
+					<tipop>Niño</tipop>
+						<precio>50.00</precio>
+						<divisa>EUR</divisa>
+				</tpersona>
+			</tpersonas>
+		<tipoh>Premium</tipoh>
+		<tipoh>Suite</tipoh>
+	</thabitacion>
+</thabitaciones>

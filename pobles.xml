@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<Mallorca>
+	<Comarcas>
+		<Comarca>
+			<Pueblos>
+				<Pueblo>Artà</Pueblo>
+				<Pueblo>Capdepera</Pueblo>
+				<Pueblo>Manacor</Pueblo>
+				<Pueblo>Sant Llorenç des Cardassar</Pueblo>
+				<Pueblo>Son Servera</Pueblo>
+					<Nombre>Llevant</Nombre>
+			</Pueblos>
+		</Comarca>
+		<Comarca>
+			<Pueblos>
+				<Pueblo>Campos</Pueblo>
+                        	<Pueblo>Felanitx</Pueblo>
+                        	<Pueblo>Llucmajor</Pueblo>
+                        	<Pueblo>Ses Salines</Pueblo>
+                        	<Pueblo>Santanyí</Pueblo>
+					<Nombre>Migjorn</Nombre
+			</Pueblos>
+		</Comarca>
+  	        <Comarca>
+                        <Pueblos>
+                                <Pueblo>Palma</Pueblo>
+                                <Pueblo></Pueblo>  
+                                <Pueblo></Pueblo>
+                                <Pueblo></Pueblo>
+                                <Pueblo></Pueblo>
+                                        <Nombre>Palma de Mallorca</Nombre
+                        </Pueblos>
+		</Comarca>
+      		<Comarca>Pla de Mallorca</Comarca>
+          	<Comarca>
+			<Pueblos>
+                                <Pueblo>Alaró</Pueblo>
+                                <Pueblo>Alcúdia</Pueblo>
+                                <Pueblo>Binissalem</Pueblo>
+                                <Pueblo>Búger</Pueblo>
+                                <Pueblo>Campanet</Pueblo>
+                                <Pueblo>Consell</Pueblo>
+                                <Pueblo>Inca</Pueblo>
+                                <Pueblo>Lloseta</Pueblo>
+                                <Pueblo>Mancor de la Vall</Pueblo>
+                                <Pueblo>Marratxí</Pueblo>
+                                <Pueblo>Sa Pobla</Pueblo>
+                                <Pueblo>Santa María del Camí</Pueblo>
+                                <Pueblo>Selva</Pueblo>
+                                        <Nombre>Raiguer</Nombre
+                        </Pueblos>
+
+		</Comarca>
+          	<Comarca>
+                        <Pueblos>
+                                <Pueblo>Valldemossa</Pueblo>
+                                <Pueblo>Fornalutx</Pueblo>
+                                <Pueblo>Sóller</Pueblo>
+                                <Pueblo>Deyá</Pueblo>
+                                <Pueblo>Estellencs</Pueblo>
+                                <Pueblo>Banyalbufar</Pueblo>
+                                <Pueblo>Puigpunyent</Pueblo>
+                                <Pueblo>Bunyola</Pueblo>
+                                <Pueblo>Esporlas</Pueblo>
+                                <Pueblo>Andratx</Pueblo>
+                                <Pueblo>Escorca</Pueblo>
+                                <Pueblo>Pollença</Pueblo>
+                                <Pueblo>Calvià</Pueblo>
+                                        <Nombre>Sierra de Tramuntana</Nombre
+                        </Pueblos>
+
+
+		</Comarca>
+	</Comarcas>
+
+
+
+
+</Mallorca>
+
